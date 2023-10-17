@@ -1,0 +1,8 @@
+/.vscode
+/.gitattributes
+/DataTypes/build
+/DataTypes/output
+/Namespaces/build
+/Namespace/output
+/Operators/build
+/Operators/output
