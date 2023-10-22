@@ -40,4 +40,6 @@ int main()
     uint16_t unsignedTwoByteDataType;
     uint32_t unsignedFourByteDataType;
     uint64_t unsignedEightByteDataType;
+
+    return 0;
 }

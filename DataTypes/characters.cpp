@@ -9,4 +9,6 @@ int main()
     std::cout << firstCharacter << std::endl;  // печати карактер иако внесуваме број
     std::cout << secondCharacter << std::endl; // печати карактер иако внесуваме број
     std::cout << thirdCharacter << std::endl;  // печати карактер иако внесуваме број
+
+    return 0;
 }

@@ -10,4 +10,6 @@ int main()
 
     std::cout << firstNumber << std::endl;
     std::cout << secondNumber << std::endl;
+
+    return 0;
 }

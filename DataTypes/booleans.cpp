@@ -7,4 +7,6 @@ int main()
 
     std::cout << isPaidFor << std::endl;         // печати 1 иако внесовме true
     std::cout << hasBillingAddress << std::endl; // печати 0 иако внесовме false
+
+    return 0;
 }
